@@ -1,2 +1,4 @@
 # cmc-megaverse
-I hope you like it
+Please read the documentation
+
+Phase1:
