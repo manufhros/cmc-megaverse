@@ -12,3 +12,5 @@ To execute megaverse logo create:
     
 To execute megaverse logo clear:
     $node clearLogo.js
+
+If something fails, rerun or try typing at the command line: $npm init -y
